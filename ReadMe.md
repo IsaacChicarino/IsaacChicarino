@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de linguagem de programação, inicio em 2020 e atualmente focado na área em atuação, porém futuramente tenho um sonho de se tornar um programador "pleno" para revolucionar a era digital em atuação, e compartlhar grandes conhecimento e consquistas futuras....
+Estudante de linguagem de programação e marcação, inicio em 2020 e atualmente focado na área em atuação, porém futuramente tenho um sonho de se tornar um programador "pleno" para revolucionar a era digital atualmente, e compartlhar grandes conhecimento e consquistas futuras....
 
 
 ## 🌐 Socials:
